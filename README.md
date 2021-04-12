@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-## I'am Princy Chauhan!.
+## I'am Princy Chauhan!
 
 ### 💻 &nbsp;About Me
 
