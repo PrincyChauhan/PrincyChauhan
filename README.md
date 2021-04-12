@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at SAFFRONY INSTITUTE OF TECHNOLOGY.
+- 🤔 &nbsp; I am an enthusiastic person who is ready to learn new technologies and i am passionate about the work i do and give my best.
+- 🎓 &nbsp; Studying Computer Engineering
 
 ### 🛠 &nbsp;Tech Stack
 
