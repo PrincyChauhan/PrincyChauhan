@@ -10,8 +10,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
--  ![css](https://img.shields.io/badge/-css-333333?style=flat&logo=css3)
+   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+   ![css](https://img.shields.io/badge/-css-333333?style=flat&logo=css3)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
