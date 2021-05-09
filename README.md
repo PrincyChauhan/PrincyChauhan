@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;About Me
 
-- 🤔 &nbsp; I am an enthusiastic person who is ready to learn new technologies and i am passionate about the work i do and give my best.
-- 🎓 &nbsp; Studying Computer Engineering
+- 😄 &nbsp; I am an enthusiastic person who is ready to learn new technologies and i am passionate about the work i do and give my best.
+- 🎓 &nbsp; Studying Computer Engineering👩‍💻
 
 ### 🛠 &nbsp;Tech Stack
 
