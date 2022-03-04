@@ -41,7 +41,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/PrincyChauhan"><img alt="PrincyChauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PrincyChauhan&custom_title=PrincyChauhan's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/PrincyChauhan"><img alt="PrincyChauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PrincyChauhan&custom_title=PrincyChauhan's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
