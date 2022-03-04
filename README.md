@@ -1,4 +1,8 @@
  <h1 align="center">Hi, Princy Chauhan Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=PrincyChauhan&label=Profile%20views&color=0e75b6&style=plastic" alt="PrincyChauhan" /> 
+</p>
+
 
 
 ### 💻 &nbsp;About Me
@@ -39,10 +43,8 @@
 </a>
 </p>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/PrincyChauhan"><img alt="PrincyChauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PrincyChauhan&custom_title=PrincyChauhan's%20Contribution%20Graph&theme=react-dark" /></a>
-<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=PrincyChauhan&theme=react-dark&hide_border=true&area=true)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
