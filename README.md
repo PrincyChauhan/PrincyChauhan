@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p> 
+ 
  <h1 align="center">Hi, Princy Chauhan Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=PrincyChauhan&label=Profile%20views&color=0e75b6&style=plastic" alt="PrincyChauhan" /> 
