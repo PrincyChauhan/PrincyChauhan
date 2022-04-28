@@ -21,8 +21,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+  ![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
