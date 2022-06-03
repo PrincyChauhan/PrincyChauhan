@@ -47,7 +47,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="px"> Connect with me
+## Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/princy-chauhan"><img src="https://img.shields.io/badge/-Princy%20Chauhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
