@@ -24,6 +24,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sqlite)
+  
+  
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
