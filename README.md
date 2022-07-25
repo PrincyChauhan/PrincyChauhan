@@ -9,7 +9,7 @@
 ### 💻 &nbsp;About Me
 
 - 😄 &nbsp; I am an enthusiastic person who is ready to learn new technologies and I am passionate about the work I do and give my best.
-- 🎓 &nbsp; Computer Engineering👩‍💻
+- 🎓 &nbsp; Computer Engineer!👩‍💻
 
 ### 🛠 &nbsp;Tech Stack
 
