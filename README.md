@@ -9,13 +9,15 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+    ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
    ![css](https://img.shields.io/badge/-css-333333?style=flat&logo=css3)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
+ 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
