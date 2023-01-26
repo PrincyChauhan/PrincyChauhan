@@ -36,17 +36,6 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![Eclipse](https://img.shields.io/badge/-Eclips-333333?style=flat&logo=Eclipse&logoColor=007ACC)
  
-
-## My Stats
-
-<p>
-<a href="https://github.com/PrincyChauhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrincyChauhan&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrincyChauhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
 ## Connect with me
 
 <p align="center">
