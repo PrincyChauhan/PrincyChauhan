@@ -3,8 +3,7 @@
 
 ### 💻 &nbsp;About Me
 
-- 😄 &nbsp; I am enthusiastic and ready to learn new technologies and I am passionate about the work I do and give my best.
-- 🎓 &nbsp; Computer Engineer!👩‍💻
+- 😄 &nbsp;Enthusiastic Computer Engineer 🎓 | Passionate about Learning & Innovating 👩‍💻 | Committed to Excellence in Software Development
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,8 +23,7 @@
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
   
   
- 
-- ⚙️ &nbsp;
+ - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -34,7 +32,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![Eclipse](https://img.shields.io/badge/-Eclips-333333?style=flat&logo=Eclipse&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=Google-Colab)
+
  
 ## Connect with me
 
