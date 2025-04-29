@@ -9,13 +9,14 @@
 
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-    ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
-   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-   ![css](https://img.shields.io/badge/-css-333333?style=flat&logo=css3)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![css](https://img.shields.io/badge/-css-333333?style=flat&logo=css3)
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
@@ -38,8 +39,24 @@
 ## Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/princy-chauhan"><img src="https://img.shields.io/badge/-Princy%20Chauhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:chauhanprincee7@gmail.com"><img src="https://img.shields.io/badge/-chauhanprincee7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/princy-chauhan">
+    <img src="https://img.shields.io/badge/-Princy%20Chauhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chauhanprincee7@gmail.com">
+    <img src="https://img.shields.io/badge/-chauhanprincee7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20250062/princy-chauhan">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/PrincyChauhan/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@chauhanprincee7">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/>
+  </a>
+</p>
+
+
   
 ## :trophy: Git Achivements
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrincyChauhan&layout=compact&theme=algolia" alt="PrincyChauhan" /></a> </p>
