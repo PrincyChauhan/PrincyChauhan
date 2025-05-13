@@ -65,7 +65,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrincyChauhan&show_icons=true&theme=radical" alt="PrincyChauhan's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincyChauhan&layout=compact&theme=radical" alt="PrincyChauhan's Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrincyChauhan&theme=radical" alt="GitHub Streak" />
-</p>
