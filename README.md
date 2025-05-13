@@ -55,3 +55,17 @@
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/>
   </a>
 </p>
+
+## GitHub Stats and Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrincyChauhan&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrincyChauhan&show_icons=true&theme=radical" alt="PrincyChauhan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincyChauhan&layout=compact&theme=radical" alt="PrincyChauhan's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PrincyChauhan&theme=radical" alt="GitHub Streak" />
+</p>
