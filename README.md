@@ -55,8 +55,3 @@
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/>
   </a>
 </p>
-
-
-  
-## :trophy: Git Achivements
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrincyChauhan&layout=compact&theme=algolia" alt="PrincyChauhan" /></a> </p>
